@@ -1,0 +1,19 @@
+{
+    "name": "notebook",
+    "version": "1.0.0",
+    "description": "学习笔记",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wanganni1014/noteBook.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wanganni1014/noteBook/issues"
+    },
+    "homepage": "https://github.com/wanganni1014/noteBook#readme"
+}
